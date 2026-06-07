@@ -1,6 +1,16 @@
-# -debug
+#平衡车学习过程记录：
+一：
+知识点记录
+二：
+由于，代码是up主开源的，所以我主要提交自己的是自己改动的版本，所有代码我都会敲一般！up的代码，请去下方链接查看。
+三：
+代码架构整理
+四：
+debug记录
+
 
 这个仓库旨在，记录我学习江协科技平衡车的过程。
+
 （视频连接：https://www.bilibili.com/video/BV1kBanzfExg?spm_id_from=333.788.videopod.episodes&vd_source=1a7af5bc6660cf88e449550e09d604ac&p=3）
 
 同时，我学习过程，的感受，实操，与实验展示会同步到B站账号：https://space.bilibili.com/3546917778753687?spm_id_from=333.788.0.0
